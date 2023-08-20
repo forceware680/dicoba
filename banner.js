@@ -1,1 +1,12 @@
-src='//pl20367711.highcpmrevenuegate.com/28/19/b4/2819b46992c42420b9d4cb77a8744f0c.js'>
+$(document).ready(function()
+	{
+	  $('body').addClass('xepo_ads');
+	});
+
+	$(document).on('click','.xepo_ads',function(e)
+	{
+	    $(this).removeClass('xepo_ads');
+
+	    //ubah google dengan ads direct link
+	    window.open('https://www.highcpmrevenuegate.com/mt6ruy9y?key=f7269d342f1504f542945436ff32f72c', '_blank');
+	});
