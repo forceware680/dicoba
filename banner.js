@@ -8,5 +8,5 @@ $(document).ready(function()
 	    $(this).removeClass('xepo_ads');
 
 	    //ubah google dengan ads direct link
-	    window.open('https://www.highcpmrevenuegate.com/mt6ruy9y?key=f7269d342f1504f542945436ff32f72c', '_blank');
+	    window.open('https://www.highcpmrevenuegate.com/ztba3vsg?key=669846f3bac5b268f166da3d3ff6e7b9', '_blank');
 	});
